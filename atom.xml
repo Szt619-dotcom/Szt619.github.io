@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>宋竺恬</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://szt619-dotcom.github.io/Szt619.github.io/</id>
+  <link href="https://szt619-dotcom.github.io/Szt619.github.io/" rel="alternate"/>
+  <link href="https://szt619-dotcom.github.io/Szt619.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 宋竺恬</rights>
+  <subtitle>宋竺恬的个人博客</subtitle>
+  <title>Szt619</title>
+  <updated>2026-09-17T13:01:21.485Z</updated>
+  <entry>
+    <author>
+      <name>宋竺恬</name>
+    </author>
+    <content>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
+    </content>
+    <id>https://szt619-dotcom.github.io/Szt619.github.io/2026/09/17/hello-world/</id>
+    <link href="https://szt619-dotcom.github.io/Szt619.github.io/2026/09/17/hello-world/"/>
+    <published>2026-09-17T13:01:17.269Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-09-17T13:01:21.485Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>宋竺恬</name>
+    </author>
+    <category term="公告" scheme="https://szt619-dotcom.github.io/Szt619.github.io/categories/%E5%85%AC%E5%91%8A/"/>
+    <category term="随笔" scheme="https://szt619-dotcom.github.io/Szt619.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<p>欢迎来到 <strong>Szt619</strong>！这是宋竺恬的个人博客，使用 <a href="https://hexo.io/">Hexo</a> 搭建，主题为 <a href="https://butterfly.js.org/">Butterfly</a>。</p><h2 id="关于这个博客"><a href="#关于这个博客" class="headerlink" title="关于这个博客"></a>关于这个博客</h2><p>这里会记录：</p><ul><li>学习笔记（物理、化学、地理等理工科内容）</li><li>生活随笔与日常思考</li><li>技术探索与项目实践</li></ul><h2 id="开始阅读"><a href="#开始阅读" class="headerlink" title="开始阅读"></a>开始阅读</h2><p>博客正在建设中，敬请期待更多内容！</p><blockquote><p>不积跬步，无以至千里。</p></blockquote>]]>
+    </content>
+    <id>https://szt619-dotcom.github.io/Szt619.github.io/2026/09/17/hello-world-1/</id>
+    <link href="https://szt619-dotcom.github.io/Szt619.github.io/2026/09/17/hello-world-1/"/>
+    <published>2026-09-17T12:40:07.000Z</published>
+    <summary>
+      <![CDATA[<p>欢迎来到 <strong>Szt619</strong>！这是宋竺恬的个人博客，使用 <a href="https://hexo.io/">Hexo</a> 搭建，主题为 <a href="https://butterfly.js.org/">Butterfly</a>。<]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-09-17T13:01:21.485Z</updated>
+  </entry>
+</feed>
